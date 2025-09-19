@@ -1,0 +1,7 @@
+// Simple button click message
+
+function showMessage() {
+
+  alert("Thank you for your interest! sivasakthi will contact you soon.");
+
+}
